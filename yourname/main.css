@@ -1,0 +1,139 @@
+body {
+    background: #e4e4e4 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+.first {
+    margin: 70px;
+    border: 50px solid a52a2a2e;
+background: white ; 
+    padding: 20px;
+
+}
+.contact {
+    color: #00ada6 ;
+    
+}
+.co {
+    margin-top: 30px;
+    margin-bottom: 18px;
+    border: 7;
+    border-top: 4px solid #eee;
+}
+.form {
+    margin: 30px;
+}
+.second {
+    margin: 50px;
+    border: 50px solid a52a2a2e;
+    background: white  ;
+    text-align: center
+
+}
+.connect {
+    color:#00ada6;
+}
+.second img {
+    width: 60px;
+    
+}
+.header {
+    background: white
+}
+.menu {
+   
+    margin: 20px
+    font-size:17px;
+    text-align:center;
+    padding:40px;
+}
+.menu a {
+  color: gray;
+    margin-right: 20px ;
+}
+.names { background: #00ada6;
+    float: right;
+    padding: 0 27px;
+
+}
+.header {
+    height: 100px;
+}
+.names h2 {
+    margin: 0px ;
+    padding: 0px;
+    text-align: center;
+    /* padding-top: 42px; */
+    padding: 33px 0px;
+}
+.fot h3 {
+    text-align: center;
+    padding: 34px;
+    font-size: 15px;
+}
+.footer {
+    background: #666666;
+}
+.fo {
+    border: 2px solid #00ada6;
+}
+.names h2 a {
+    color: white;
+    }
+    .about {    font-size: 23px;
+        color: #00ada6;
+
+    }
+    .cat {
+        width: 300px;
+    }
+    .img p {
+        float: right;
+        margin: 2px;
+    }
+    .Portfolio {
+        color: #00ada6 ;
+    }
+    .shekil img {
+        width: 300px;
+        position: relative;
+
+    }
+    .con {
+        color: #00ada6 ;
+    }
+    .shekil {
+       width: 100%;
+    }
+    .soz {
+        font-size: 19px;
+    padding: 14px;
+    background-color: #00ada6;
+    position: absolute;
+    top: 67%;
+    color: white;
+    text-align: center;
+    width: 300px;
+    text-align: center;
+    }
+    .card {
+        background: white;
+        width: 300px;
+
+    }
+   
+    .cards {
+        padding: 30px;
+    }
+    .go{
+        color: white;
+    background: #144a4a;
+    padding: 12px;
+    
+    }
+    .go:hover{
+        background: aqua ;
+        transition: 2s ;
+    }
